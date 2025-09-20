@@ -46,7 +46,7 @@ This system provides secure, automated attendance recording using advanced facia
    pip install -r requirements.txt
    ```
 4. Download the facial landmark predictor:
-   - Download `shape_predictor_68_face_landmarks.dat.bz2` from [dlib models](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+   - Download `shape_predictor_68_face_landmarks.dat.bz2`
    - Extract the file to the project root directory
 
 ## Quick Start
